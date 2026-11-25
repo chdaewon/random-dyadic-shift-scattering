@@ -1,0 +1,2776 @@
+[
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 0,
+"input": "white0",
+"err": 0.029826481337562584
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 0,
+"input": "pink0",
+"err": 0.015408080218642312
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 0,
+"input": "white1",
+"err": 0.03074963240728938
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 0,
+"input": "pink1",
+"err": 0.01657825217302076
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 0,
+"input": "white2",
+"err": 0.028743355470316485
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 0,
+"input": "pink2",
+"err": 0.01434953371238882
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 0,
+"input": "balanced",
+"err": 0.034504872649067486
+},
+{
+"kind": "floor",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.0,
+"J": 0,
+"input": "pink0_shift0.5",
+"err": 0.00034680067167160297
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.2,
+"J": 0,
+"input": "balanced",
+"err": 0.06972700661082538
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 1,
+"input": "white0",
+"err": 0.03054044724656568
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 1,
+"input": "pink0",
+"err": 0.01597444554964777
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 1,
+"input": "white1",
+"err": 0.03219311154403622
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 1,
+"input": "pink1",
+"err": 0.01733393184928096
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 1,
+"input": "white2",
+"err": 0.02956087605183188
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 1,
+"input": "pink2",
+"err": 0.01501306659071644
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 1,
+"input": "balanced",
+"err": 0.034380633122028936
+},
+{
+"kind": "floor",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.0,
+"J": 1,
+"input": "pink0_shift0.5",
+"err": 0.0002773335626469139
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.2,
+"J": 1,
+"input": "balanced",
+"err": 0.07669431505998771
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 2,
+"input": "white0",
+"err": 0.030326457119775628
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 2,
+"input": "pink0",
+"err": 0.016857916518645117
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 2,
+"input": "white1",
+"err": 0.032344494111434044
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 2,
+"input": "pink1",
+"err": 0.01674523488797039
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 2,
+"input": "white2",
+"err": 0.029999238384981478
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 2,
+"input": "pink2",
+"err": 0.014989541000456155
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 2,
+"input": "balanced",
+"err": 0.03392376132935841
+},
+{
+"kind": "floor",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.0,
+"J": 2,
+"input": "pink0_shift0.5",
+"err": 0.00017576693435416654
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.2,
+"J": 2,
+"input": "balanced",
+"err": 0.07339633105558717
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 3,
+"input": "white0",
+"err": 0.030594643252368343
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 3,
+"input": "pink0",
+"err": 0.01647620570505938
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 3,
+"input": "white1",
+"err": 0.03220519801117651
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 3,
+"input": "pink1",
+"err": 0.017617103317494723
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 3,
+"input": "white2",
+"err": 0.03011477067934672
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 3,
+"input": "pink2",
+"err": 0.015517733327180037
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 3,
+"input": "balanced",
+"err": 0.030736920401129512
+},
+{
+"kind": "floor",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.0,
+"J": 3,
+"input": "pink0_shift0.5",
+"err": 0.0001237829502809591
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.2,
+"J": 3,
+"input": "balanced",
+"err": 0.064727697186545
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 4,
+"input": "white0",
+"err": 0.030478308497567167
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 4,
+"input": "pink0",
+"err": 0.01608245466072867
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 4,
+"input": "white1",
+"err": 0.032052888304724296
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 4,
+"input": "pink1",
+"err": 0.017474254908112087
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 4,
+"input": "white2",
+"err": 0.030152176078110778
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 4,
+"input": "pink2",
+"err": 0.01538286303343984
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 4,
+"input": "balanced",
+"err": 0.02658645115009757
+},
+{
+"kind": "floor",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.0,
+"J": 4,
+"input": "pink0_shift0.5",
+"err": 8.393984123496614e-05
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.2,
+"J": 4,
+"input": "balanced",
+"err": 0.05469876054582686
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 5,
+"input": "white0",
+"err": 0.030481516931956762
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 5,
+"input": "pink0",
+"err": 0.016038243350347745
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 5,
+"input": "white1",
+"err": 0.03205722527240471
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 5,
+"input": "pink1",
+"err": 0.016807661058462396
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 5,
+"input": "white2",
+"err": 0.030138967107582838
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 5,
+"input": "pink2",
+"err": 0.015024240593395482
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 5,
+"input": "balanced",
+"err": 0.024070241666074427
+},
+{
+"kind": "floor",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.0,
+"J": 5,
+"input": "pink0_shift0.5",
+"err": 5.486639789818306e-05
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.2,
+"J": 5,
+"input": "balanced",
+"err": 0.04912412716734244
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"input": "white0",
+"err": 0.030417331383152536
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"input": "pink0",
+"err": 0.01561273183534711
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"input": "white1",
+"err": 0.031922476082612485
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"input": "pink1",
+"err": 0.01630562434674028
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"input": "white2",
+"err": 0.029952468686223133
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"input": "pink2",
+"err": 0.014173430548552319
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"input": "balanced",
+"err": 0.024188412287485434
+},
+{
+"kind": "floor",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.0,
+"J": 6,
+"input": "pink0_shift0.5",
+"err": 3.830504509418938e-05
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.2,
+"J": 6,
+"input": "balanced",
+"err": 0.04988910205869719
+},
+{
+"kind": "single",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"level": 0,
+"input": "balanced",
+"err": 0.023833873595753972
+},
+{
+"kind": "single",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"level": 0,
+"input": "pink0",
+"err": 0.015408080218642312
+},
+{
+"kind": "single",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"level": 1,
+"input": "balanced",
+"err": 0.026514969057877563
+},
+{
+"kind": "single",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"level": 1,
+"input": "pink0",
+"err": 0.015356999990319439
+},
+{
+"kind": "single",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"level": 2,
+"input": "balanced",
+"err": 0.025395220490333575
+},
+{
+"kind": "single",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"level": 2,
+"input": "pink0",
+"err": 0.014047276957931834
+},
+{
+"kind": "single",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"level": 3,
+"input": "balanced",
+"err": 0.022125492178813346
+},
+{
+"kind": "single",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"level": 3,
+"input": "pink0",
+"err": 0.014388866746160333
+},
+{
+"kind": "single",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"level": 4,
+"input": "balanced",
+"err": 0.01688098985527154
+},
+{
+"kind": "single",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"level": 4,
+"input": "pink0",
+"err": 0.015045157285957452
+},
+{
+"kind": "single",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"level": 5,
+"input": "balanced",
+"err": 0.01348012715841886
+},
+{
+"kind": "single",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"level": 5,
+"input": "pink0",
+"err": 0.013627975675171704
+},
+{
+"kind": "single",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"level": 6,
+"input": "balanced",
+"err": 0.015366410787022756
+},
+{
+"kind": "single",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"level": 6,
+"input": "pink0",
+"err": 0.010173216747733952
+},
+{
+"kind": "total_window",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"input": "balanced",
+"err": 0.024188412287485434
+},
+{
+"kind": "total_window",
+"w": "haar",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"input": "pink0",
+"err": 0.01561273183534711
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 0,
+"input": "white0",
+"err": 0.008626966237173779
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 0,
+"input": "pink0",
+"err": 0.004792503538653447
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 0,
+"input": "white1",
+"err": 0.009219349107673446
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 0,
+"input": "pink1",
+"err": 0.0049767027290557675
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 0,
+"input": "white2",
+"err": 0.00864219711411446
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 0,
+"input": "pink2",
+"err": 0.004462614731439105
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 0,
+"input": "balanced",
+"err": 0.007134105058062306
+},
+{
+"kind": "floor",
+"w": "haar",
+"tau": "multi",
+"eps": 0.0,
+"J": 0,
+"input": "pink0_shift0.5",
+"err": 0.00034680067167160297
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 1,
+"input": "white0",
+"err": 0.008942503939474928
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 1,
+"input": "pink0",
+"err": 0.005027687777937557
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 1,
+"input": "white1",
+"err": 0.009584427903524788
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 1,
+"input": "pink1",
+"err": 0.0053061896306635815
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 1,
+"input": "white2",
+"err": 0.009138090017115864
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 1,
+"input": "pink2",
+"err": 0.0047147920623216
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 1,
+"input": "balanced",
+"err": 0.009488462683894179
+},
+{
+"kind": "floor",
+"w": "haar",
+"tau": "multi",
+"eps": 0.0,
+"J": 1,
+"input": "pink0_shift0.5",
+"err": 0.0002773335626469139
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 2,
+"input": "white0",
+"err": 0.008662542729995315
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 2,
+"input": "pink0",
+"err": 0.004940820055558422
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 2,
+"input": "white1",
+"err": 0.009462852471975666
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 2,
+"input": "pink1",
+"err": 0.005144221565043489
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 2,
+"input": "white2",
+"err": 0.008947603198230127
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 2,
+"input": "pink2",
+"err": 0.004586889206397929
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 2,
+"input": "balanced",
+"err": 0.009702441892851525
+},
+{
+"kind": "floor",
+"w": "haar",
+"tau": "multi",
+"eps": 0.0,
+"J": 2,
+"input": "pink0_shift0.5",
+"err": 0.00017576693435416654
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 3,
+"input": "white0",
+"err": 0.008736936575131225
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 3,
+"input": "pink0",
+"err": 0.004972663894784524
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 3,
+"input": "white1",
+"err": 0.009558306706771588
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 3,
+"input": "pink1",
+"err": 0.005264294352323921
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 3,
+"input": "white2",
+"err": 0.008970471669447384
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 3,
+"input": "pink2",
+"err": 0.0045891243143470276
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 3,
+"input": "balanced",
+"err": 0.009374253389078196
+},
+{
+"kind": "floor",
+"w": "haar",
+"tau": "multi",
+"eps": 0.0,
+"J": 3,
+"input": "pink0_shift0.5",
+"err": 0.0001237829502809591
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 4,
+"input": "white0",
+"err": 0.008768160946585314
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 4,
+"input": "pink0",
+"err": 0.004976805118035302
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 4,
+"input": "white1",
+"err": 0.009467062354435594
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 4,
+"input": "pink1",
+"err": 0.005256866692893335
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 4,
+"input": "white2",
+"err": 0.008936795591227726
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 4,
+"input": "pink2",
+"err": 0.004455649893079544
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 4,
+"input": "balanced",
+"err": 0.008766752984757278
+},
+{
+"kind": "floor",
+"w": "haar",
+"tau": "multi",
+"eps": 0.0,
+"J": 4,
+"input": "pink0_shift0.5",
+"err": 8.393984123496614e-05
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 5,
+"input": "white0",
+"err": 0.008704532358164383
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 5,
+"input": "pink0",
+"err": 0.00480567261540715
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 5,
+"input": "white1",
+"err": 0.009432456626067282
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 5,
+"input": "pink1",
+"err": 0.005055170284630017
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 5,
+"input": "white2",
+"err": 0.008904989417724185
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 5,
+"input": "pink2",
+"err": 0.004307159189118507
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 5,
+"input": "balanced",
+"err": 0.008380351521183785
+},
+{
+"kind": "floor",
+"w": "haar",
+"tau": "multi",
+"eps": 0.0,
+"J": 5,
+"input": "pink0_shift0.5",
+"err": 5.486639789818306e-05
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"input": "white0",
+"err": 0.008681046165932802
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"input": "pink0",
+"err": 0.004773420517650249
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"input": "white1",
+"err": 0.009416047205942317
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"input": "pink1",
+"err": 0.004927324757111766
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"input": "white2",
+"err": 0.008866744921415511
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"input": "pink2",
+"err": 0.004177076820949923
+},
+{
+"kind": "total",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"input": "balanced",
+"err": 0.008163589634530283
+},
+{
+"kind": "floor",
+"w": "haar",
+"tau": "multi",
+"eps": 0.0,
+"J": 6,
+"input": "pink0_shift0.5",
+"err": 3.830504509418938e-05
+},
+{
+"kind": "single",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"level": 0,
+"input": "balanced",
+"err": 0.004447694843089015
+},
+{
+"kind": "single",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"level": 0,
+"input": "pink0",
+"err": 0.004792503538653447
+},
+{
+"kind": "single",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"level": 1,
+"input": "balanced",
+"err": 0.007523557350199009
+},
+{
+"kind": "single",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"level": 1,
+"input": "pink0",
+"err": 0.004664550250391187
+},
+{
+"kind": "single",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"level": 2,
+"input": "balanced",
+"err": 0.006814993312902758
+},
+{
+"kind": "single",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"level": 2,
+"input": "pink0",
+"err": 0.004051618521134883
+},
+{
+"kind": "single",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"level": 3,
+"input": "balanced",
+"err": 0.004532771572681065
+},
+{
+"kind": "single",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"level": 3,
+"input": "pink0",
+"err": 0.0036638550267093736
+},
+{
+"kind": "single",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"level": 4,
+"input": "balanced",
+"err": 0.0032212744047201186
+},
+{
+"kind": "single",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"level": 4,
+"input": "pink0",
+"err": 0.003237929600342306
+},
+{
+"kind": "single",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"level": 5,
+"input": "balanced",
+"err": 0.0038330263279374092
+},
+{
+"kind": "single",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"level": 5,
+"input": "pink0",
+"err": 0.002017093661226645
+},
+{
+"kind": "single",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"level": 6,
+"input": "balanced",
+"err": 0.0034874268567731364
+},
+{
+"kind": "single",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"level": 6,
+"input": "pink0",
+"err": 0.002256825731876514
+},
+{
+"kind": "total_window",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"input": "balanced",
+"err": 0.008163589634530283
+},
+{
+"kind": "total_window",
+"w": "haar",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"input": "pink0",
+"err": 0.004773420517650249
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 0,
+"input": "white0",
+"err": 0.03781203979495852
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 0,
+"input": "pink0",
+"err": 0.021706937590164396
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 0,
+"input": "white1",
+"err": 0.039203976611806905
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 0,
+"input": "pink1",
+"err": 0.023140186090200552
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 0,
+"input": "white2",
+"err": 0.03496148279215715
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 0,
+"input": "pink2",
+"err": 0.019412900770245413
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 0,
+"input": "balanced",
+"err": 0.04154564226302656
+},
+{
+"kind": "floor",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.0,
+"J": 0,
+"input": "pink0_shift0.5",
+"err": 0.0004923007351388078
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.2,
+"J": 0,
+"input": "balanced",
+"err": 0.0822941443034241
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 1,
+"input": "white0",
+"err": 0.03942451559839862
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 1,
+"input": "pink0",
+"err": 0.02297662951814714
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 1,
+"input": "white1",
+"err": 0.04123882946954655
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 1,
+"input": "pink1",
+"err": 0.024379344050061768
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 1,
+"input": "white2",
+"err": 0.037895071319757515
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 1,
+"input": "pink2",
+"err": 0.021142132102263525
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 1,
+"input": "balanced",
+"err": 0.04667533090808229
+},
+{
+"kind": "floor",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.0,
+"J": 1,
+"input": "pink0_shift0.5",
+"err": 0.00039492897063642015
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.2,
+"J": 1,
+"input": "balanced",
+"err": 0.09997685437995157
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 2,
+"input": "white0",
+"err": 0.03856084406132234
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 2,
+"input": "pink0",
+"err": 0.022929686341431253
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 2,
+"input": "white1",
+"err": 0.04098754429857965
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 2,
+"input": "pink1",
+"err": 0.02307641233767305
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 2,
+"input": "white2",
+"err": 0.037359977478255146
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 2,
+"input": "pink2",
+"err": 0.019788489926936027
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 2,
+"input": "balanced",
+"err": 0.03958793011988493
+},
+{
+"kind": "floor",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.0,
+"J": 2,
+"input": "pink0_shift0.5",
+"err": 0.00027184219144133685
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.2,
+"J": 2,
+"input": "balanced",
+"err": 0.08399674798950084
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 3,
+"input": "white0",
+"err": 0.03840280909822134
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 3,
+"input": "pink0",
+"err": 0.022614823156185456
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 3,
+"input": "white1",
+"err": 0.040236341976251165
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 3,
+"input": "pink1",
+"err": 0.02365168870871208
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 3,
+"input": "white2",
+"err": 0.03722847507889215
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 3,
+"input": "pink2",
+"err": 0.020724632553498247
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 3,
+"input": "balanced",
+"err": 0.034902374152131155
+},
+{
+"kind": "floor",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.0,
+"J": 3,
+"input": "pink0_shift0.5",
+"err": 0.00017291541925394503
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.2,
+"J": 3,
+"input": "balanced",
+"err": 0.07142213577765952
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 4,
+"input": "white0",
+"err": 0.03815844424115611
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 4,
+"input": "pink0",
+"err": 0.021166510500303
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 4,
+"input": "white1",
+"err": 0.039728310975913284
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 4,
+"input": "pink1",
+"err": 0.022541350162420256
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 4,
+"input": "white2",
+"err": 0.03689022092043533
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 4,
+"input": "pink2",
+"err": 0.019433525969128146
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 4,
+"input": "balanced",
+"err": 0.029968593429286667
+},
+{
+"kind": "floor",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.0,
+"J": 4,
+"input": "pink0_shift0.5",
+"err": 0.00011315225078328103
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.2,
+"J": 4,
+"input": "balanced",
+"err": 0.06019465025841787
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 5,
+"input": "white0",
+"err": 0.038200214949995655
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 5,
+"input": "pink0",
+"err": 0.020392382273015437
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 5,
+"input": "white1",
+"err": 0.03964720355733011
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 5,
+"input": "pink1",
+"err": 0.021088491467570913
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 5,
+"input": "white2",
+"err": 0.03694489869364315
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 5,
+"input": "pink2",
+"err": 0.018889787033606
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 5,
+"input": "balanced",
+"err": 0.029343140114968046
+},
+{
+"kind": "floor",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.0,
+"J": 5,
+"input": "pink0_shift0.5",
+"err": 7.99432471171075e-05
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.2,
+"J": 5,
+"input": "balanced",
+"err": 0.0595406170427829
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"input": "white0",
+"err": 0.03809626880347754
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"input": "pink0",
+"err": 0.019366739140698988
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"input": "white1",
+"err": 0.039598383739171766
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"input": "pink1",
+"err": 0.020219400865694893
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"input": "white2",
+"err": 0.036589168722193095
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"input": "pink2",
+"err": 0.017924192870108418
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"input": "balanced",
+"err": 0.028356864762840165
+},
+{
+"kind": "floor",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.0,
+"J": 6,
+"input": "pink0_shift0.5",
+"err": 5.51032215642266e-05
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.2,
+"J": 6,
+"input": "balanced",
+"err": 0.05821813559932989
+},
+{
+"kind": "single",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"level": 0,
+"input": "balanced",
+"err": 0.020164112817662606
+},
+{
+"kind": "single",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"level": 0,
+"input": "pink0",
+"err": 0.021706937590164396
+},
+{
+"kind": "single",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"level": 1,
+"input": "balanced",
+"err": 0.022475188043606275
+},
+{
+"kind": "single",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"level": 1,
+"input": "pink0",
+"err": 0.019935033089317957
+},
+{
+"kind": "single",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"level": 2,
+"input": "balanced",
+"err": 0.022473078450767087
+},
+{
+"kind": "single",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"level": 2,
+"input": "pink0",
+"err": 0.019393978911813717
+},
+{
+"kind": "single",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"level": 3,
+"input": "balanced",
+"err": 0.02084486735201157
+},
+{
+"kind": "single",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"level": 3,
+"input": "pink0",
+"err": 0.020979868429961402
+},
+{
+"kind": "single",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"level": 4,
+"input": "balanced",
+"err": 0.01695154154166387
+},
+{
+"kind": "single",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"level": 4,
+"input": "pink0",
+"err": 0.015594494374918147
+},
+{
+"kind": "single",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"level": 5,
+"input": "balanced",
+"err": 0.018800973404577315
+},
+{
+"kind": "single",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"level": 5,
+"input": "pink0",
+"err": 0.012543455366417364
+},
+{
+"kind": "single",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"level": 6,
+"input": "balanced",
+"err": 0.01723638458034376
+},
+{
+"kind": "single",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"level": 6,
+"input": "pink0",
+"err": 0.010506197097865063
+},
+{
+"kind": "total_window",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"input": "balanced",
+"err": 0.028356864762840165
+},
+{
+"kind": "total_window",
+"w": "sym4",
+"tau": "smooth",
+"eps": 0.1,
+"J": 6,
+"input": "pink0",
+"err": 0.019366739140698988
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 0,
+"input": "white0",
+"err": 0.01081937999209784
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 0,
+"input": "pink0",
+"err": 0.006520564475073554
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 0,
+"input": "white1",
+"err": 0.011347647308017595
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 0,
+"input": "pink1",
+"err": 0.006763676070885311
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 0,
+"input": "white2",
+"err": 0.010698788231849233
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 0,
+"input": "pink2",
+"err": 0.005936455515215425
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 0,
+"input": "balanced",
+"err": 0.008200652114074536
+},
+{
+"kind": "floor",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.0,
+"J": 0,
+"input": "pink0_shift0.5",
+"err": 0.0004923007351388078
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 1,
+"input": "white0",
+"err": 0.011841367472479327
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 1,
+"input": "pink0",
+"err": 0.007366389181763745
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 1,
+"input": "white1",
+"err": 0.012164724096108779
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 1,
+"input": "pink1",
+"err": 0.0075675208384788145
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 1,
+"input": "white2",
+"err": 0.011697643078101899
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 1,
+"input": "pink2",
+"err": 0.006748249020043748
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 1,
+"input": "balanced",
+"err": 0.010848851122939627
+},
+{
+"kind": "floor",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.0,
+"J": 1,
+"input": "pink0_shift0.5",
+"err": 0.00039492897063642015
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 2,
+"input": "white0",
+"err": 0.011570874254972684
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 2,
+"input": "pink0",
+"err": 0.007019972954715984
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 2,
+"input": "white1",
+"err": 0.012031038774717307
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 2,
+"input": "pink1",
+"err": 0.007299699265476937
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 2,
+"input": "white2",
+"err": 0.011454295386228101
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 2,
+"input": "pink2",
+"err": 0.0064747749336247365
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 2,
+"input": "balanced",
+"err": 0.010256825055698797
+},
+{
+"kind": "floor",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.0,
+"J": 2,
+"input": "pink0_shift0.5",
+"err": 0.00027184219144133685
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 3,
+"input": "white0",
+"err": 0.011339628671064495
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 3,
+"input": "pink0",
+"err": 0.00708046197920895
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 3,
+"input": "white1",
+"err": 0.011853373641083883
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 3,
+"input": "pink1",
+"err": 0.007009446010413738
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 3,
+"input": "white2",
+"err": 0.011210747358520536
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 3,
+"input": "pink2",
+"err": 0.006208134951559771
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 3,
+"input": "balanced",
+"err": 0.008716637890798297
+},
+{
+"kind": "floor",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.0,
+"J": 3,
+"input": "pink0_shift0.5",
+"err": 0.00017291541925394503
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 4,
+"input": "white0",
+"err": 0.011220288278112006
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 4,
+"input": "pink0",
+"err": 0.006637568965636671
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 4,
+"input": "white1",
+"err": 0.011723262818355463
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 4,
+"input": "pink1",
+"err": 0.006803122110851626
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 4,
+"input": "white2",
+"err": 0.011111960485200783
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 4,
+"input": "pink2",
+"err": 0.005993060232713266
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 4,
+"input": "balanced",
+"err": 0.007906809593273062
+},
+{
+"kind": "floor",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.0,
+"J": 4,
+"input": "pink0_shift0.5",
+"err": 0.00011315225078328103
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 5,
+"input": "white0",
+"err": 0.011207325228798587
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 5,
+"input": "pink0",
+"err": 0.006432016254397323
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 5,
+"input": "white1",
+"err": 0.011700871240938451
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 5,
+"input": "pink1",
+"err": 0.006435614707801466
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 5,
+"input": "white2",
+"err": 0.011099903880039492
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 5,
+"input": "pink2",
+"err": 0.0057348416140203876
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 5,
+"input": "balanced",
+"err": 0.008228082680414472
+},
+{
+"kind": "floor",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.0,
+"J": 5,
+"input": "pink0_shift0.5",
+"err": 7.99432471171075e-05
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"input": "white0",
+"err": 0.011193101329134782
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"input": "pink0",
+"err": 0.006253598253246567
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"input": "white1",
+"err": 0.011671879630112162
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"input": "pink1",
+"err": 0.0061428615781373725
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"input": "white2",
+"err": 0.011000558966671091
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"input": "pink2",
+"err": 0.0053823011687107085
+},
+{
+"kind": "total",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"input": "balanced",
+"err": 0.00839040037699739
+},
+{
+"kind": "floor",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.0,
+"J": 6,
+"input": "pink0_shift0.5",
+"err": 5.51032215642266e-05
+},
+{
+"kind": "single",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"level": 0,
+"input": "balanced",
+"err": 0.005267006262123723
+},
+{
+"kind": "single",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"level": 0,
+"input": "pink0",
+"err": 0.006520564475073554
+},
+{
+"kind": "single",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"level": 1,
+"input": "balanced",
+"err": 0.006039849496242648
+},
+{
+"kind": "single",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"level": 1,
+"input": "pink0",
+"err": 0.0059937081268761
+},
+{
+"kind": "single",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"level": 2,
+"input": "balanced",
+"err": 0.004938984770328134
+},
+{
+"kind": "single",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"level": 2,
+"input": "pink0",
+"err": 0.00535584583903825
+},
+{
+"kind": "single",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"level": 3,
+"input": "balanced",
+"err": 0.0047830760226749555
+},
+{
+"kind": "single",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"level": 3,
+"input": "pink0",
+"err": 0.004583259869464572
+},
+{
+"kind": "single",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"level": 4,
+"input": "balanced",
+"err": 0.005108239432683857
+},
+{
+"kind": "single",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"level": 4,
+"input": "pink0",
+"err": 0.003631719988998444
+},
+{
+"kind": "single",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"level": 5,
+"input": "balanced",
+"err": 0.005104160776279494
+},
+{
+"kind": "single",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"level": 5,
+"input": "pink0",
+"err": 0.002332206975003666
+},
+{
+"kind": "single",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"level": 6,
+"input": "balanced",
+"err": 0.003786093495037538
+},
+{
+"kind": "single",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"level": 6,
+"input": "pink0",
+"err": 0.001973013788197435
+},
+{
+"kind": "total_window",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"input": "balanced",
+"err": 0.00839040037699739
+},
+{
+"kind": "total_window",
+"w": "sym4",
+"tau": "multi",
+"eps": 0.1,
+"J": 6,
+"input": "pink0",
+"err": 0.006253598253246567
+}
+]
