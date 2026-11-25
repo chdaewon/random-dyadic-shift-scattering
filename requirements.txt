@@ -1,0 +1,5 @@
+numpy>=2.1
+scipy>=1.14
+PyWavelets>=1.8
+matplotlib>=3.9
+mpmath>=1.3

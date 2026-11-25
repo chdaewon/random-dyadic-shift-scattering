@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper below."
+title: "Random Dyadic Shift Scattering: code and data"
+authors:
+  - family-names: Chung
+    given-names: Daewon
+    affiliation: "Department of Mathematics, Keimyung University"
+    orcid: "https://orcid.org/0000-0002-1214-8526"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Random Dyadic Shift Scattering: Scale-Uniform Deformation Stability and Phase-Aligned Hilbert Multipliers"
+  authors:
+    - family-names: Chung
+      given-names: Daewon
+      affiliation: "Department of Mathematics, Keimyung University"
+      orcid: "https://orcid.org/0000-0002-1214-8526"
+  year: 2026
+  notes: "Submitted."
