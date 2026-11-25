@@ -7,6 +7,8 @@ authors:
     affiliation: "Department of Mathematics, Keimyung University"
     orcid: "https://orcid.org/0000-0002-1214-8526"
 license: MIT
+doi: "10.5281/zenodo.24518588"
+repository-code: "https://github.com/chdaewon/random-dyadic-shift-scattering"
 preferred-citation:
   type: article
   title: "Random Dyadic Shift Scattering: Scale-Uniform Deformation Stability and Phase-Aligned Hilbert Multipliers"
