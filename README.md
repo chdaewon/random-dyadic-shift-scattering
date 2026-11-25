@@ -1,5 +1,7 @@
 # Random Dyadic Shift Scattering: code and data
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24518588.svg)](https://doi.org/10.5281/zenodo.24518588)
+
 Scripts and numerical outputs for the paper
 
 > Daewon Chung, *Random Dyadic Shift Scattering: Scale-Uniform Deformation Stability and Phase-Aligned Hilbert Multipliers* (submitted).
@@ -61,4 +63,6 @@ On one CPU core: the table and figure scripts in `paper_final/` take seconds; `v
 
 ## License
 
-MIT (see `LICENSE`). If you use this code, please cite the paper (see `CITATION.cff`).
+MIT (see `LICENSE`). If you use this code, please cite the paper and the archived code (see `CITATION.cff`):
+
+> D. Chung, *Random Dyadic Shift Scattering: code and data*, Zenodo (2026), https://doi.org/10.5281/zenodo.24518588
