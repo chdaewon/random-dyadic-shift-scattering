@@ -1,0 +1,75 @@
+{
+ "tol": 0.0005,
+ "kappa_level10": [
+  -0.0073622661828734596,
+  0.46097936603742545
+ ],
+ "kappa_level13": [
+  -0.010809399906292167,
+  0.46099663286975084
+ ],
+ "kappa_richardson": [
+  -0.011301897128262994,
+  0.4609974552066351
+ ],
+ "configs": {
+  "main_fft": {
+   "re_mean": -0.011294422349644022,
+   "im_mean": 0.46095206028426233,
+   "re_std": 0.0003153778075901927,
+   "im_std": 0.0005960905446149453,
+   "n_tones": 25,
+   "dre_level10": -0.003932156166770563,
+   "dim_level10": -2.730575316312045e-05,
+   "pass_level10": false,
+   "dre_level13": -0.0004850224433518551,
+   "dim_level13": -4.457258548851151e-05,
+   "pass_level13": true,
+   "dre_richardson": 7.47477861897175e-06,
+   "dim_richardson": -4.5394922372765656e-05,
+   "pass_richardson": true
+  },
+  "main_spline3": {
+   "re_mean": -0.01129437949615415,
+   "im_mean": 0.460950258360916,
+   "re_std": 0.00031537794335610264,
+   "im_std": 0.0005958327561505311,
+   "n_tones": 25,
+   "dre_level10": -0.00393211331328069,
+   "dim_level10": -2.9107676509432245e-05,
+   "pass_level10": false,
+   "dre_level13": -0.00048497958986198214,
+   "dim_level13": -4.63745088348233e-05,
+   "pass_level13": true,
+   "dre_richardson": 7.517632108844721e-06,
+   "dim_richardson": -4.719684571907745e-05,
+   "pass_richardson": true
+  },
+  "coarse_nodes_fft": {
+   "re_mean": -0.011596096846138751,
+   "im_mean": 0.4596496127945626,
+   "re_std": 0.0011027884527582735,
+   "im_std": 0.008805279799067181,
+   "n_tones": 13,
+   "dre_level10": -0.004233830663265292,
+   "dim_level10": -0.00132975324286283,
+   "pass_level10": false,
+   "dre_level13": -0.0007866969398465842,
+   "dim_level13": -0.001347020075188221,
+   "pass_level13": false,
+   "dre_richardson": -0.0002941997178757573,
+   "dim_richardson": -0.0013478424120724752,
+   "pass_richardson": false
+  }
+ },
+ "wideband_band": {
+  "fft_vs_spline_rel": 5.591395012225702e-06,
+  "fft_vs_symbol_rel": 0.0014491404857127671,
+  "spline3_vs_symbol_rel": 0.0014490970755301415
+ },
+ "wideband_full": {
+  "fft_vs_spline_rel": 0.15964562894680895,
+  "fft_vs_symbol_rel": 0.22876235085366203,
+  "spline3_vs_symbol_rel": 0.35661509086345544
+ }
+}

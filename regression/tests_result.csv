@@ -1,0 +1,32 @@
+test,quantity,expected,tolerance,measured,pass
+version,__version__,0.2.0,exact,0.2.0,True
+adjoint,"|<Sf,g>-<f,S*g>|/(|f||g|) haar",0.0,1e-10,4.3280606983299227e-19,True
+constant,max|S 1| haar,0.0,1e-10,0.0,True
+adjoint,"|<Sf,g>-<f,S*g>|/(|f||g|) sym4",0.0,1e-10,0.0,True
+constant,max|S 1| sym4,0.0,1e-10,3.895647817115964e-12,True
+Haar Im kappa,Im kappa,0.5665450177283993,1e-05,0.566545087845281,True
+Haar |Re kappa|,|Re kappa|,0.0,1e-08,3.070844229356081e-17,True
+Haar Im m_T range,min Im m_T,0.5103,0.0005,0.5102937915831623,True
+Haar Im m_T range,max Im m_T,0.6208,0.0005,0.6208275696307725,True
+Haar ripple,Q=1 ripple %,9.93,0.03,9.928915441115885,True
+Haar ripple,Q=2 ripple %,1.12,0.03,1.1224204467534018,True
+Haar ripple,Q=4 ripple %,0.327,0.03,0.32658583173359834,True
+Haar ripple,Q=5 ripple %,0.06,0.03,0.05950777370254459,True
+grid ValueError,n=65 raises,True,exact,True,True
+sym4 m=3 kappa,Re,-0.0074,0.0005,-0.0073622661828734596,True
+sym4 m=3 kappa,Im,0.461,0.0005,0.46097936603742545,True
+db4 m=4 kappa,Re,0.0104,0.0005,0.010357295989467457,True
+db4 m=4 kappa,Im,-0.4566,0.0005,-0.45659462004866447,True
+unaligned |c0| m=0,|c0|=1/|Im kappa| db4,43.18,0.01,43.184029563740125,True
+unaligned |c0| m=0,|c0|=1/|Im kappa| sym4,85.74,0.01,85.73739245780989,True
+signal kappa [ref=level-10 symbol],Re,-0.0073622661828734596,0.0005,-0.011309957191046714,False
+signal kappa [ref=level-10 symbol],Im*sgn k,0.46097936603742545,0.0005,0.4610975981739832,True
+signal kappa [ref=converged symbol],Re,-0.011301897128262994,0.0005,-0.011309957191046714,True
+signal kappa [ref=converged symbol],Im*sgn k,0.4609974552066351,0.0005,0.4610975981739832,True
+offset map,db4 m_d=0 -> m,3,exact,3,True
+offset map,db4 m_d=1 -> m,4,exact,4,True
+offset map,sym4 m_d=0 -> m,3,exact,3,True
+offset map,sym4 m_d=1 -> m,4,exact,4,True
+exhaustive vs MC(M=1024),rel L2 mean of 5 inputs (report ~0.017),0.017,record,0.05610553966388696,record
+exhaustive vs MC(M=1024),time exhaustive s (report 0.0046),0.0046,record,0.0044422149658203125,record
+exhaustive vs MC(M=1024),time MC s (report 0.069),0.069,record,0.06942963600158691,record

@@ -1,0 +1,16 @@
+python 3.11.10 on Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.35
+numpy 2.1.2
+scipy 1.17.1
+pywavelets 1.8.0
+torch 2.5.1+cu124 (cuda available: True, cuda 12.4)
+sympy 1.13.1
+pandas 3.1.0
+matplotlib 3.11.2
+np.trapezoid available: True
+jupyter_core 5.9.1
+nbformat 5.11.1
+nbconvert 7.17.2
+GPU: NVIDIA RTX 6000 Ada Generation, 49140 MiB
+NVIDIA RTX 6000 Ada Generation, 49140 MiB, 597.16
+pytest: absent (as expected)
+network/installs: none used
