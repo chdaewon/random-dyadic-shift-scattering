@@ -1,0 +1,13 @@
+\begin{table}[h]\centering\small
+\begin{tabular}{lccccccc}\toprule
+gen. & $J$ & steps & Lanczos $\theta^{1/2}/\eps$ & full $\lambda_{\max}^{1/2}/\eps$ & rel.\ diff.\ of $\lambda$ & $r/\theta$ & asymmetry\\\midrule
+Haar & 0 & 40 & 1.294109 & 1.294109 & $2.1\times10^{-9}$ & $2.7\times10^{-7}$ & $4\times10^{-16}$\\
+Haar & 1 & 32 & 1.507956 & 1.507956 & $1.3\times10^{-10}$ & $5.4\times10^{-10}$ & $5\times10^{-16}$\\
+Haar & 2 & 40 & 1.944959 & 1.944959 & $1.6\times10^{-7}$ & $8.7\times10^{-6}$ & $5\times10^{-16}$\\
+Haar & 3 & 40 & 1.977411 & 1.977419 & $8.0\times10^{-6}$ & $7.9\times10^{-4}$ & $5\times10^{-16}$\\
+sym4 & 0 & 40 & 2.073101 & 2.073101 & $1.6\times10^{-8}$ & $1.5\times10^{-7}$ & $5\times10^{-16}$\\
+sym4 & 1 & 24 & 2.387560 & 2.387560 & $1.1\times10^{-10}$ & $4.8\times10^{-10}$ & $4\times10^{-16}$\\
+sym4 & 2 & 29 & 2.385739 & 2.385739 & $1.1\times10^{-10}$ & $4.8\times10^{-10}$ & $5\times10^{-16}$\\\bottomrule
+\end{tabular}
+\caption{Lanczos versus the full $1024\times1024$ matrix of $A^*A$ (smooth warp, $\eps=0.1$, $2^{13}$ samples). ``rel.\ diff.'' is $\abs{\theta-\lambda_{\max}}/\lambda_{\max}$, $r/\theta$ the relative Lanczos residual, and ``asymmetry'' is $\max\abs{M-M^T}/\max\abs M$ for the assembled matrix $M$.}\label{tab:lzfull}
+\end{table}

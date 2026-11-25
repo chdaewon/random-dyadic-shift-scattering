@@ -1,0 +1,16 @@
+\begin{table}[h]\centering\small\setlength{\tabcolsep}{4pt}
+\begin{tabular}{lllccccccccc}\toprule
+gen. & warp & $\eps$ & $J=0$ & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8\\\midrule
+Haar & smooth & 0.1 & 1.294 & 1.508 & 1.945 & 1.977 & 1.995 & 2.008 & 2.017 & 2.018 & ---\\
+Haar & smooth & 0.3 & 1.367 & 1.766 & 1.820 & 1.938 & 1.953 & 1.962 & 1.963 & --- & ---\\
+Haar & smooth & 0.02 & 1.255 & --- & --- & --- & 2.137 & --- & --- & --- & 2.208$^\ast$\\
+\addlinespace[2pt]
+sym4 & smooth & 0.1 & 2.073 & 2.388 & 2.386 & 2.386 & 2.387 & 2.387 & 2.387 & --- & ---\\
+sym4 & smooth & 0.3 & 2.110 & 2.776 & 2.740 & 2.749 & 2.749 & 2.749 & 2.749 & --- & ---\\
+\addlinespace[2pt]
+Haar & multi & 0.1 & 0.806 & --- & 1.225 & --- & 1.313 & --- & 1.338 & --- & 1.323$^\ast$\\
+Haar & multi & 0.05 & 0.800 & --- & 1.204 & --- & 1.302 & --- & 1.335 & --- & 1.326$^\ast$\\
+Haar & multi & 0.02 & 0.796 & --- & 1.189 & --- & 1.291 & --- & 1.327 & --- & 1.319$^\ast$\\
+\bottomrule\end{tabular}
+\caption{Worst-case linear defect $\sigma_{\max}/\norm{\tau^\prime}_\infty$ of the lattice-averaged shift ($2^{13}$ samples, finest cell 8 samples). Unmarked entries are Lanczos values, with relative residual at most $1\times10^{-3}$ (\cref{ssec:num-worst}); entries marked ${}^\ast$ are power-iteration lower bounds. For the multi-scale warp, $\norm{\tau^\prime}_\infty=0.747\,\eps$. Every row saturates in $J$; the three multi-scale Haar rows agree to within $3\%$ at every $J$.}\label{tab:worst}
+\end{table}
