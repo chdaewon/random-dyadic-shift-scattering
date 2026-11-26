@@ -1,10 +1,10 @@
 # Random Dyadic Shift Scattering: code and data
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24518588.svg)](https://doi.org/10.5281/zenodo.24518588)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24518588.svg)](https://doi.org/10.5281/zenodo.24518588) [![arXiv](https://img.shields.io/badge/arXiv-2611.33907-b31b1b.svg)](https://arxiv.org/abs/2611.33907)
 
 Scripts and numerical outputs for the paper
 
-> Daewon Chung, *Random Dyadic Shift Scattering: Scale-Uniform Deformation Stability and Phase-Aligned Hilbert Multipliers* (submitted).
+> Daewon Chung, *Random Dyadic Shift Scattering: Scale-Uniform Deformation Stability and Phase-Aligned Hilbert Multipliers*, preprint, [arXiv:2611.33907](https://arxiv.org/abs/2611.33907) (submitted).
 
 Every table and figure of the paper that involves a computation can be regenerated from this repository. The JSON, CSV and `.tex` files in the repository are the outputs used in the paper, so the tables can also be checked without rerunning the expensive computations.
 
@@ -34,7 +34,7 @@ Scripts are run from their own folder, for example `cd theory_J && python ej_wor
 
 ## Which script produces which result
 
-Numbers refer to the submitted version of the paper.
+Numbers refer to the submitted version of the paper. Tables S1 and S2 are in its supplementary material, which is also appended to the arXiv version.
 
 | Result in the paper | Script | Output |
 |---|---|---|
@@ -44,11 +44,11 @@ Numbers refer to the submitted version of the paper.
 | Figure 1 (averaged Haar multiplier) | `early_scripts/mult.py`, `e1_discrete.py`, then `figs_en.py` | `paper_final/figs/fig1_en.pdf` |
 | Figure 2 (lattice dependence; Hilbert-coefficient integrand) | `early_scripts/e2_transl.py`, `e8.py`, `e9.py`, then `figs_en.py` | `fig2_en.pdf` (left), `fig4_en.pdf` (right) |
 | Table 2 (typical inputs) and linear-defect checks | `theory_J/ej_check.py`, `ej_run.py`, `ej_linear.py` | `ej_run.json`, `ej_linear.json` |
-| Table 3 (channels, second layer, dilation averaging) | `theory_J/ej_ext.py layers\|dil <gen> <Js>`, then `paper_final/make_tab_ext.py` | `ej_ext_*.json`, `tab_ext.tex` |
-| Table 4 and Figure 4(a) (worst-case inputs) | `theory_J/lz_worst.py <gen> <eps> <warp> <Js> <steps> <full-Js>` (Lanczos), `theory_J/ej_worst.py` (power iteration), then `paper_final/make_tab_worst.py` | `lz_*.json`, `ej_worst_*.json`, `tab_worst.tex` |
-| Table 5 and Figure 4(b) (single-lattice BMO norm) | `theory_J/ej_bmo.py` | `ej_bmo_*.json` |
-| Table 6 (affine warps, exact averaged constants) | `theory_J/ej_affine_symbol.py` | `ej_affine_symbol_*.json` |
-| Table 8 (Lanczos against full matrix) | `theory_J/lz_worst.py` with `<full-Js>` | `lz_haar_smooth_eps0.1.json`, `lz_sym4_smooth_eps0.1.json` |
+| Table S1 (supplementary; channels, second layer, dilation averaging) | `theory_J/ej_ext.py layers\|dil <gen> <Js>`, then `paper_final/make_tab_ext.py` | `ej_ext_*.json`, `tab_ext.tex` |
+| Table 3 and Figure 4(a) (worst-case inputs) | `theory_J/lz_worst.py <gen> <eps> <warp> <Js> <steps> <full-Js>` (Lanczos), `theory_J/ej_worst.py` (power iteration), then `paper_final/make_tab_worst.py` | `lz_*.json`, `ej_worst_*.json`, `tab_worst.tex` |
+| Table 4 and Figure 4(b) (single-lattice BMO norm) | `theory_J/ej_bmo.py` | `ej_bmo_*.json` |
+| Table 5 (affine warps, exact averaged constants) | `theory_J/ej_affine_symbol.py` | `ej_affine_symbol_*.json` |
+| Table S2 (supplementary; Lanczos against full matrix) | `theory_J/lz_worst.py` with `<full-Js>` | `lz_haar_smooth_eps0.1.json`, `lz_sym4_smooth_eps0.1.json` |
 | Remark 5.7 (`sigma_eps`, exact single-lattice norms) | `theory_J/ej_single_lowerbound.py` | `ej_single_lowerbound_*.json` |
 | Low-frequency control runs | `theory_J/ej_lowfreq2.py` | `ej_lowfreq2_*.json` |
 | Figure 3 (deformation, aligned generators) | `paper_final/fig3/e3_deform_aligned.py`, then `make_fig3.py` | `e3_aligned.json`, `fig3_en.pdf` |
