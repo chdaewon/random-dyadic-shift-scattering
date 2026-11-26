@@ -29,7 +29,7 @@ for g,w,e,fp,fl,nrm in rows:
         else: cells.append('---')
     out.append(f'{g} & {w} & {e} & '+' & '.join(cells)+r'\\'); summary[(g,w,e)]=(lz,pw)
 out+=[r'\bottomrule\end{tabular}',
- r'\caption{Worst-case linear defect $\sigma_{\max}/\norm{\tau^\prime}_\infty$ of the lattice-averaged shift ($2^{13}$ samples, finest cell 8 samples). Unmarked entries are Lanczos values, with relative residual at most '+sci(maxres)+r' (\cref{ssec:num-worst}); entries marked ${}^\ast$ are power-iteration lower bounds. For the multi-scale warp, $\norm{\tau^\prime}_\infty=0.747\,\eps$. Every row saturates in $J$; the three multi-scale Haar rows agree to within $3\%$ at every $J$.}\label{tab:worst}',
+ r'\caption{Worst-case linear defect $\sigma_{\max}/\norm{\tau^\prime}_\infty$ of the lattice-averaged shift ($2^{13}$ samples, finest cell 8 samples). Unmarked entries are Lanczos values, with relative residual at most '+sci(maxres)+r' (\cref{ssec:num-worst}); entries marked ${}^\ast$ are power-iteration lower bounds. For the multi-scale warp the normalization uses $\norm{\tau^\prime}_\infty=0.747\,\eps$, the maximum of $\abs{\tau^\prime}$ over the $2^{13}$ sample points; the supremum over $\R$ is $0.749\,\eps$, so the normalized values change by less than $0.4\%$. Every row saturates in $J$; the three multi-scale Haar rows agree to within $3\%$ at every $J$.}\label{tab:worst}',
  r'\end{table}']
 Path(__file__).resolve().parent.joinpath('tab_worst.tex').write_text('\n'.join(out)+'\n'); print('\n'.join(out))
 # comparison
